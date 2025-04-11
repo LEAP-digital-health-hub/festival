@@ -1,2 +1,4 @@
-# festival
-The Festival of Digital Health will be a dynamic week of events, showcasing how digital technologies are transforming the way we think about, deliver, and experience health and care.
+# LEAP Festival of Digital Health interative schedule
+
+- [View the schedule](https://LEAP-digital-health-hub.github.io/festival/)
+- [Edit the schedule](https://LEAP-digital-health-hub.github.io/festival/editor/)
